@@ -1,0 +1,173 @@
+{
+  "GeM": [
+    {
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB DDR4",
+      "capacity": "512GB",
+      "size": 14,
+      "resolution": "2560x1440",
+      "graphics": "Intel Iris Xe",
+      "price": 69999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "IdeaPad 5",
+      "processor": "AMD Ryzen 5 4500U",
+      "ram": "8GB DDR4",
+      "capacity": "256GB",
+      "size": 15.6,
+      "resolution": "1920x1080",
+      "graphics": "Integrated AMD Radeon Graphics",
+      "price": 19999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Yoga C940",
+      "processor": "Intel Core i7-1065G7",
+      "ram": "12GB LPDDR4X",
+      "capacity": "512GB",
+      "size": 14,
+      "resolution": "3840x2160 (4K)",
+      "graphics": "Intel Iris Plus",
+      "price": 79999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Legion 5",
+      "processor": "AMD Ryzen 7 4800H",
+      "ram": "16GB DDR4",
+      "capacity": "1TB",
+      "size": 15.6,
+      "resolution": "1920x1080",
+      "graphics": "NVIDIA GeForce RTX 3060",
+      "price": 69999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Flex 5",
+      "processor": "AMD Ryzen 5 4500U",
+      "ram": "8GB DDR4",
+      "capacity": "256GB",
+      "size": 14,
+      "resolution": "1920x1080",
+      "graphics": "Integrated AMD Radeon Graphics",
+      "price": 14999
+    }
+  ],
+  "Amazon": [
+    {
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB DDR4",
+      "capacity": "512GB",
+      "size": 14,
+      "resolution": "2560x1440",
+      "graphics": "Intel Iris Xe",
+      "price": 169999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "IdeaPad 5",
+      "processor": "AMD Ryzen 5 4500U",
+      "ram": "8GB DDR4",
+      "capacity": "256GB",
+      "size": 15.6,
+      "resolution": "1920x1080",
+      "graphics": "Integrated AMD Radeon Graphics",
+      "price": 59999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Yoga C940",
+      "processor": "Intel Core i7-1065G7",
+      "ram": "12GB LPDDR4X",
+      "capacity": "512GB",
+      "size": 14,
+      "resolution": "3840x2160 (4K)",
+      "graphics": "Intel Iris Plus",
+      "price": 129999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Legion 5",
+      "processor": "AMD Ryzen 7 4800H",
+      "ram": "16GB DDR4",
+      "capacity": "1TB",
+      "size": 15.6,
+      "resolution": "1920x1080",
+      "graphics": "NVIDIA GeForce RTX 3060",
+      "price": 149999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Flex 5",
+      "processor": "AMD Ryzen 5 4500U",
+      "ram": "8GB DDR4",
+      "capacity": "256GB",
+      "size": 14,
+      "resolution": "1920x1080",
+      "graphics": "Integrated AMD Radeon Graphics",
+      "price": 64999
+    }
+  ],
+  "Flipkart": [
+    {
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "processor": "Intel Core i7-1165G7",
+      "ram": "16GB DDR4",
+      "capacity": "512GB",
+      "size": 14,
+      "resolution": "2560x1440",
+      "graphics": "Intel Iris Xe",
+      "price": 149999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "IdeaPad 5",
+      "processor": "AMD Ryzen 5 4500U",
+      "ram": "8GB DDR4",
+      "capacity": "256GB",
+      "size": 15.6,
+      "resolution": "1920x1080",
+      "graphics": "Integrated AMD Radeon Graphics",
+      "price": 49999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Yoga C940",
+      "processor": "Intel Core i7-1065G7",
+      "ram": "12GB LPDDR4X",
+      "capacity": "512GB",
+      "size": 14,
+      "resolution": "3840x2160 (4K)",
+      "graphics": "Intel Iris Plus",
+      "price": 139999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Legion 5",
+      "processor": "AMD Ryzen 7 4800H",
+      "ram": "16GB DDR4",
+      "capacity": "1TB",
+      "size": 15.6,
+      "resolution": "1920x1080",
+      "graphics": "NVIDIA GeForce RTX 3060",
+      "price": 129999
+    },
+    {
+      "brand": "Lenovo",
+      "model": "Flex 5",
+      "processor": "AMD Ryzen 5 4500U",
+      "ram": "8GB DDR4",
+      "capacity": "256GB",
+      "size": 14,
+      "resolution": "1920x1080",
+      "graphics": "Integrated AMD Radeon Graphics",
+      "price": 54999
+    }
+  ]
+}
